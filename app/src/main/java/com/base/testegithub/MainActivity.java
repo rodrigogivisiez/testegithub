@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
 
         Log.i("adfasdf","adfasdfasd");
+        Log.i("adfasdf","new");
     }
 }
